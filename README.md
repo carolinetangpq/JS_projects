@@ -1,2 +1,2 @@
-# A folder consolidating my javascript learning & projects 
-
+# JS 
+A folder consolidating my javascript learning & projects 
